@@ -1,5 +1,6 @@
 # Data Mining Fundamentals
 
+## Intro
 In this GitHub repository, you will find R language code for various data analysis techniques, including aggregation, nearest neighbor classification, random forest, association rule learning, and k-means clustering. Additionally, you will find a .csv file containing the data set used for analysis. This repository was created as part of the final project for the "Deep Data Analysis" course at the Faculty of Informatics and Digital Technologies.
 
 Students:  
